@@ -110,3 +110,7 @@ docs/superpowers/
 .worktrees/
 /cookies.txt
 /post_login.html
+
+# Exclude dev data files
+*.xlsx
+*.sqlite
